@@ -10,7 +10,7 @@ float LuasLingkaran(float r) {
 float LuasSegitiga(float a, float t) {
 	return 0.5 * a * t;
 }
-
+ 
 int main()
 {
 	float panjang, lebar, jejari, alas, tinggi;
